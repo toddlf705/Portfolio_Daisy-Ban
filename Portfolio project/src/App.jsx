@@ -1,11 +1,22 @@
-import Home from './components/Home'
 import './App.css'
+import Nav from './components/Nav'
+import About from './components/About'
+import Projects from './components/Projects'
+import Contacts from './components/Contacts'
+import Skills from './components/Skills'
 
 function App() {
 
   return (
     <>
-        <Home/>
+      <div>
+        <Nav/>
+        <About/>
+        <Skills/>
+        <Projects/>
+        <Contacts/>
+      </div>
+
     </>
   )
 }
