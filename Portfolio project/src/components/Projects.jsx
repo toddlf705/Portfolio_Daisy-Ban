@@ -23,7 +23,7 @@ const Projects = () => {
                 </div>
                 <div class='section2'>
                   <img class='project-web-img2' src = {Fork1} />
-                  <div id='hide2'>Overlap2</div>
+                  <div id='hide2'>Fork Yeah is a React App (Produced with Vite) that helps you find delicious meals to eat. It provides the user with the recipe for how to make the dish, and even an embedded Youtube video they can refer to in case they wanna watch someone else making it before they take it to the kitchen.</div>
                 </div>
               </div>
             </div>
@@ -36,7 +36,9 @@ const Projects = () => {
               <div class='mobile-projects'>
                 <div class='section1'>
                   <img class='mobile-img1' src = {DADA1} />
-                  <div id='hide3'>Overlap3</div>
+                  <div id='hide3'>DADA Goal is a full MERN stack personal goal tracking app that is user friendly and planner based. Back-end data is stored and pulled from Mongo Atlas cloud server. User registration and signin functions are implented using the JWT user authorization method.
+Tracked goal activities and milestones to user specific by generating and assigning tokens. 
+</div>
                 </div> 
 
                 <div class='section2'>

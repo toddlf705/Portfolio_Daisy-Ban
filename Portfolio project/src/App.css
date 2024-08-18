@@ -241,6 +241,9 @@ h2 {
   width: 800px;
   height: 500px;
   background-color:rgba(0, 65, 65, 0.609);
+  font-size: 1.8rem;
+  justify-content: center;
+  align-content: center;
 }
 
 .section1:hover 
