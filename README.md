@@ -1,8 +1,11 @@
-# React + Vite
+# Portfolio_Daisy-Ban
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a REACT Portfolio project where I build my first complete portfolio with REACT.
+Below is the site map and a reference image to help me start out. <br><br>
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. PORTFOLIO SITE MAP <br>
+<img src = "portfolio map.png">
+<br>
+<br>
+2. REFERENCE IMAGE <br>
+<img src = "reference.png">
