@@ -232,6 +232,7 @@ h2 {
   font-size: 1.8rem;
   justify-content: center;
   align-content: center;
+  font-family: "League Spartan", sans-serif;
 }
 
 #hide2 {
@@ -244,6 +245,7 @@ h2 {
   font-size: 1.8rem;
   justify-content: center;
   align-content: center;
+  font-family: "League Spartan", sans-serif;
 }
 
 .section1:hover 
@@ -296,6 +298,10 @@ h2 {
   width: 450px;
   height: 900px;
   background-color:rgba(0, 65, 65, 0.609);
+  font-size: 1.8rem;
+  justify-content: center;
+  align-content: center;
+  font-family: "League Spartan", sans-serif;
 }
 
 #hide4 {
@@ -305,6 +311,10 @@ h2 {
   width: 450px;
   height: 900px;
   background-color:rgba(0, 65, 65, 0.609);
+  font-size: 1.8rem;
+  justify-content: center;
+  align-content: center;
+  font-family: "League Spartan", sans-serif;
 }
 
 .section1:hover 

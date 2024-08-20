@@ -43,7 +43,7 @@ Tracked goal activities and milestones to user specific by generating and assign
 
                 <div class='section2'>
                   <img class='mobile-img2' src = {Wimf1} />
-                  <div id='hide4'>Overlap4</div>
+                  <div id='hide4'>WIMF (What's In My Fridge) is a full MERN stack grocery list and fridge food tracking app that is made in purpose to avoid generating food waste by managing food stock inside users’ fridge. The app features full CRUD operations where users are not only able to add and delete food items, but also able to transfer purchased items from ‘grocery list’ to ‘my fridge’ list. The date function is also addes to notify users with he expiration date of each food item as the expiration date approaches.</div>
                 </div>
               </div>
             </div>
